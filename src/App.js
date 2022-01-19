@@ -1,7 +1,5 @@
 import { useEffect, useState } from "react";
-import axios from "axios";
 import Dropdown from "react-dropdown";
-import { HiSwitchHorizontal } from "react-icons/hi";
 import "react-dropdown/style.css";
 import "./App.css";
 
